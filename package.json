@@ -6,13 +6,22 @@
     "react-scripts": "1.1.1"
   },
   "dependencies": {
+    "express": "^4.16.2",
+    "lodash": "^4.17.5",
+    "node-uuid": "^1.4.8",
     "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.7",
+    "redux": "^3.7.2",
+    "redux-socket.io": "^1.4.0",
+    "socket.io": "^2.0.4",
+    "socket.io-client": "^2.0.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "server": "node server.js"
   }
 }

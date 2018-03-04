@@ -1,0 +1,138 @@
+/*
+ * Default color: #b5b5b5; (its like...faint white?)
+ * 
+ * We're using Terminal.app colors from https://en.wikipedia.org/wiki/ANSI_escape_code#Colors
+ */
+
+.HistoryWindow {
+  color:#aaa;
+}
+
+.HistoryWindow li {
+  /*color:#b5b5b5;*/
+  color:#aaa;
+  font-weight: normal;
+  font-weight: 400;
+  text-decoration: none;
+  font-style:normal;
+}
+.HistoryWindow li[data-type="USER_INPUT_MSG"] {
+  color: #222;
+}
+
+/*
+ * Text Style Attributes
+ */
+.HistoryWindow li .off { /* Ansi off */
+  /*color: #b5b5b5;*/
+  /*color: #8f8f8f;*/
+  color:#aaa;
+  font-weight: normal;
+  font-weight: 400;
+  text-decoration: none;
+  font-style:normal;
+} 
+.off {
+  /*color: #b5b5b5;*/
+  /*color: #8f8f8f;*/
+  color:#aaa;
+  font-weight: normal;
+  font-weight: 400;
+  text-decoration: none;
+  font-style:normal;
+}
+.HistoryEntry .bold { /* Bold */ 
+  font-weight:bold;
+  font-weight:500;
+}
+.HistoryEntry .faint { /* Faint - not currently in use in renderer */
+  font-weight: lighter;
+  font-weight: 300;  
+}
+.HistoryEntry .italic { /* Italic */
+  font-style: italic;
+}
+.HistoryEntry .underline { /* Underline */
+  text-decoration: underline;
+}
+.HistoryEntry .blink { /* Blink */
+  
+}
+.HistoryEntry .inverse { /* Inverse */
+  
+}
+/*
+ * Foreground Colors
+ */
+.black { /* Black */
+  /*color:rgb(0,0,0);*/
+  color:#2e3436;
+}
+.red { /* Red */ 
+  /*color:rgb(194,54,33);*/
+  color: #cc0000;
+}
+.green { /* Green */
+  /*color:rgb(37, 188, 36);*/
+  color:#4e9a06;
+}
+.yellow { /* Yellow */
+  /*color: rgb(173, 173, 39);*/
+  color: #C4A000;
+}
+.blue { /* Blue */
+  /*color: rgb(73, 46, 225);  */
+  color: #3465A4;
+
+}
+.magenta { /* Magenta */
+  /*color: rgb(211, 56, 211); */
+  color: #75507B;
+}
+.cyan { /* Cyan */
+  /*color: rgb(51, 187, 200);*/
+  color:#06989A;
+}
+.white { /* White */
+  /*color: rgb(203, 204, 205);*/
+  color:#D3D7CF;
+}
+.bright_black { /* Bright Black */
+  /*color: rgb(129, 131, 131);*/
+  color:#555753;
+}
+.bright_red { /* Bright Red */ 
+  /*color: rgb(252,57,31);*/
+  color: #EF2929;
+}
+.bright_green { /* Bright Green */
+  /*color: rgb(49, 231, 34);*/
+  color: #8AE234;
+}
+.bright_yellow { /* Bright Yellow */
+  /*color: rgb(234, 236, 35);*/
+  color: #FCE94F;
+}
+.bright_blue { /* Bright Blue */
+  /*color: rgb(88, 51, 255);*/
+  color: #729FCF;
+}
+.bright_magenta { /* Bright Magenta */
+  /*color: rgb(249, 53, 248);*/
+  color: #AD7FA8;
+}
+.bright_cyan { /* Bright Cyan */
+  /*color: rgb(20, 240, 240);*/
+  color: #34E2E2;
+}
+.bright_white { /* Bright White */
+  /*color: rgb(233, 235, 235);*/
+  color: #EEEEEC;
+}
+.background_blue {
+  /*background-color: rgb(73, 46, 225);*/
+  background-color: #3465A4;
+}
+.background_transparent {
+  background-color:transparent;
+}

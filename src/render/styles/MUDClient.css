@@ -1,0 +1,128 @@
+@font-face {
+  font-family: DroidSansMono;
+  src: url('./DroidSansMono.ttf');
+}
+body {
+  background: #000;
+  height: 100vh;
+  font-family: DroidSansMono;
+  overflow: hidden;
+}
+
+
+.Map canvas {
+  position: absolute;
+  /*z-index:9999;*/
+}
+
+
+.MUDClient {
+  display: flex;
+}
+.MUDClient > .leftColumn {
+  /*width: 50%;*/
+  /*width: 0%;*/
+  /*display: none;*/
+  width: 100%;
+}
+@media (min-width: 1400px) {
+  .MUDClient > .leftColumn {
+    max-width: 700px;
+  }
+}
+.MUDClient > .rightColumn {
+  width: 50%;
+  /*width: 100%;*/
+  /*display: none;*/
+}
+@media (min-width: 1400px) {
+  .MUDClient > .rightColumn {
+    width: calc( 100vw - 700px);
+  }
+}
+
+
+
+/* Window Layouts */
+/*
+body[data-layout=a] .MUDClient > .leftColumn {
+  width: 50%;
+}
+body[data-layout=a] .MUDClient > .rightColumn {
+  width: 50%;
+}
+body[data-layout=b] .MUDClient > .leftColumn {
+  width: 100%;
+}
+body[data-layout=b] .MUDClient > .rightColumn {
+  width: 0%;
+}
+body[data-layout=b] .UserInputBar input {
+  width: 100vw;
+}
+body[data-layout=b] .MapHUD {
+  display: none;
+}
+body[data-layout=c] .MUDClient > .leftColumn {
+  width: 0%;
+}
+body[data-layout=c] .MUDClient > .rightColumn {
+  width: 100%;
+}
+body[data-layout=c] .MUDClient .HistoryWindow {
+  display: none;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+.HistoryWindow {
+  overflow-x: hidden;
+  overflow-y: scroll;
+  padding: 10px;
+  font-size: 12px;
+  line-height: 1.2;
+  white-space: pre-wrap;
+  -webkit-font-smoothing: antialiased;
+  width:100%;
+  height: calc(100vh - 43px);
+  /*color:#b5b5b5;*/
+  color: #8f8f8f;
+}
+.HistoryWindow::-webkit-scrollbar {
+  display: none;
+}
+
+.UserInputBar {
+  color: inherit;
+}
+.UserInputBar input {
+  /*position: fixed;*/
+  bottom: 0;
+  background: #202020;
+  left: 0;
+  height: 43px;
+  padding: 10px;
+  font-size: 12px;
+  color: #808080;
+  border: transparent;
+  width: 100%;
+  font-family: DroidSansMono;
+
+
+  width: 100%;
+  /*position: fixed;*/
+  /*width: 50vw;*/
+  z-index:9999;
+
+}
+.UserInputBar input:focus {
+  outline: none;
+}

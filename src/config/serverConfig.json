@@ -1,0 +1,5 @@
+{
+  "mudServerAddress": "mume.org",
+  "mudServerPort": 4242,
+  "websocketsPort": 3002
+}

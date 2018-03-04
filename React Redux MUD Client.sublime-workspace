@@ -1,0 +1,1580 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"remove",
+				"removeTriggerPattern"
+			],
+			[
+				"hand",
+				"handleUserInput"
+			],
+			[
+				"addTrigg",
+				"addTriggerPattern"
+			],
+			[
+				"check",
+				"checkSingleAlias"
+			],
+			[
+				"res",
+				"responseString"
+			],
+			[
+				"cond",
+				"conditionString"
+			],
+			[
+				"conditi",
+				"conditionString"
+			],
+			[
+				"handle",
+				"handleMudOutput"
+			],
+			[
+				"config",
+				"configureStore"
+			],
+			[
+				"load",
+				"loadLocalState"
+			],
+			[
+				"local",
+				"localSaveState"
+			],
+			[
+				"confi",
+				"configStore"
+			],
+			[
+				"uuid",
+				"uuidv4"
+			],
+			[
+				"inti",
+				"initialState"
+			],
+			[
+				"ini",
+				"initialState"
+			],
+			[
+				"user",
+				"userConfig"
+			],
+			[
+				"C",
+				"ClientCommandManager"
+			],
+			[
+				"trigg",
+				"triggerManager"
+			],
+			[
+				"client",
+				"clientCommandManager"
+			],
+			[
+				"aliasO",
+				"aliasObj"
+			],
+			[
+				"re",
+				"responseString"
+			],
+			[
+				"add",
+				"addAliasPattern"
+			],
+			[
+				"ad",
+				"addAliasPattern"
+			],
+			[
+				"alias",
+				"aliasObj"
+			],
+			[
+				"ali",
+				"aliasObjs"
+			],
+			[
+				"print",
+				"printAliases"
+			],
+			[
+				"prin",
+				"printAllAliasesPattern"
+			],
+			[
+				"moveLog",
+				"moveLogEntry"
+			],
+			[
+				"old",
+				"oldRoom"
+			],
+			[
+				"move",
+				"movementDetectedEvent"
+			],
+			[
+				"event",
+				"eventHandle"
+			],
+			[
+				"mov",
+				"moveLogEntry"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"uni",
+				"uniqueIdIterator"
+			],
+			[
+				"uin",
+				"uniqueIdIterator"
+			],
+			[
+				"get",
+				"getTime"
+			],
+			[
+				"map",
+				"mapArray"
+			],
+			[
+				"movem",
+				"movementDirection"
+			],
+			[
+				"lowest",
+				"lowestRoomY"
+			],
+			[
+				"nd",
+				"nudgeUp"
+			],
+			[
+				"lo",
+				"lowestRow"
+			],
+			[
+				"low",
+				"lowestRoomY"
+			],
+			[
+				"scrol",
+				"scrollX"
+			],
+			[
+				"x",
+				"xOffset"
+			],
+			[
+				"view",
+				"viewHeight"
+			],
+			[
+				"scro",
+				"scrollY"
+			],
+			[
+				"nudge",
+				"nudgeUp"
+			],
+			[
+				"room",
+				"roomNeedsUpdate"
+			],
+			[
+				"n",
+				"nextPosition"
+			],
+			[
+				"cached",
+				"cachedRoom"
+			],
+			[
+				"nex",
+				"nextPosition"
+			],
+			[
+				"cache",
+				"cachedRoom"
+			],
+			[
+				"cach",
+				"cachedRoom"
+			],
+			[
+				"last",
+				"lastPosition"
+			],
+			[
+				"next",
+				"nextPosition"
+			],
+			[
+				"History",
+				"HistoryEntry"
+			],
+			[
+				"H",
+				"HistoryEntry"
+			],
+			[
+				"input",
+				"userInputBarState"
+			],
+			[
+				"lay",
+				"layout"
+			],
+			[
+				"la",
+				"layoutId"
+			],
+			[
+				"hist",
+				"historyMaxLen"
+			],
+			[
+				"in",
+				"inputStr"
+			],
+			[
+				"histor",
+				"historyAddMessage"
+			],
+			[
+				"history",
+				"historyPointer"
+			],
+			[
+				"req",
+				"requestedIndex"
+			],
+			[
+				"histo",
+				"historyPointer"
+			],
+			[
+				"com",
+				"combineTriggerArrays"
+			],
+			[
+				"comb",
+				"combinedTriggers"
+			],
+			[
+				"combin",
+				"combinedTriggers"
+			],
+			[
+				"conf",
+				"configFileTriggers"
+			],
+			[
+				"new",
+				"newTriggers"
+			],
+			[
+				"same",
+				"sameKeyFoundAtIndex"
+			],
+			[
+				"state",
+				"stateTrigger"
+			],
+			[
+				"stat",
+				"stateTriggers"
+			],
+			[
+				"replace",
+				"replaceAliases"
+			],
+			[
+				"write",
+				"writeToMudServer"
+			],
+			[
+				"User",
+				"UserTriggers"
+			],
+			[
+				"cli",
+				"clientCommands"
+			],
+			[
+				"mudClient",
+				"mudClientMiddleware"
+			],
+			[
+				"pos",
+				"possibleJsonStr"
+			],
+			[
+				"mud",
+				"mudClientMiddleware"
+			],
+			[
+				"default",
+				"defaultMapState"
+			],
+			[
+				"con",
+				"condition"
+			],
+			[
+				"command",
+				"commandString"
+			],
+			[
+				"comma",
+				"commandString"
+			],
+			[
+				"trig",
+				"triggersArray"
+			],
+			[
+				"Client",
+				"ClientCommands"
+			],
+			[
+				"aliases",
+				"aliasesArray"
+			],
+			[
+				"matc",
+				"matchingAlias"
+			],
+			[
+				"matchin",
+				"matchingAlias"
+			],
+			[
+				"comm",
+				"commandString"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"json",
+				"jsonObj"
+			],
+			[
+				"p",
+				"pipes"
+			],
+			[
+				"nu",
+				"nudgeVal"
+			],
+			[
+				"test",
+				"testRoom1"
+			],
+			[
+				"opp",
+				"opposite"
+			],
+			[
+				"should",
+				"shouldComponentUpdate"
+			],
+			[
+				"CLICK_",
+				"CLICK_MAP_Y"
+			],
+			[
+				"CLICK_MAP",
+				"CLICK_MAP_X"
+			],
+			[
+				"click",
+				"click_page_x"
+			],
+			[
+				"of",
+				"offset"
+			],
+			[
+				"Map",
+				"MapMaintainer"
+			],
+			[
+				"is",
+				"isCurrentRoom"
+			],
+			[
+				"compo",
+				"componentDidUpdate"
+			],
+			[
+				"op",
+				"oppositeNudge"
+			],
+			[
+				"nud",
+				"nudgePropName"
+			],
+			[
+				"diag",
+				"diagonalRoom"
+			],
+			[
+				"dia",
+				"diagonalRoom"
+			],
+			[
+				"di",
+				"diagonalRoom"
+			],
+			[
+				"guess",
+				"guessNextVerticalPos"
+			],
+			[
+				"curr",
+				"currentMapId"
+			],
+			[
+				"movment",
+				"movementDirection"
+			],
+			[
+				"response",
+				"responseType"
+			],
+			[
+				"condi",
+				"conditionType"
+			],
+			[
+				"cm",
+				"componentDidUpdate"
+			],
+			[
+				"wrap",
+				"wrapCenterY"
+			],
+			[
+				"respones",
+				"responses"
+			],
+			[
+				"no",
+				"noMatches"
+			],
+			[
+				"MUD",
+				"MUDClient"
+			],
+			[
+				"conid",
+				"conditionType"
+			],
+			[
+				"USER",
+				"UserAliasResponder"
+			],
+			[
+				"match",
+				"matches"
+			],
+			[
+				"us",
+				"userInputData"
+			],
+			[
+				"Trigg",
+				"TriggersResponder"
+			],
+			[
+				"MU",
+				"MudDataResponseSet"
+			],
+			[
+				"Clien",
+				"ClientUserCommandsSet"
+			],
+			[
+				"Trig",
+				"TriggerResponseGenerator"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 192.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"wo",
+				"Word Wrap: Toggle"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"enable",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"",
+				"Package Control: Disable Package"
+			],
+			[
+				"javabab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"babl",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"markd",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markdow",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"worr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"disal",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"liq",
+				"Set Syntax: HTML (Liquid)"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 183.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"script.sublime-snippet",
+			"sublime.log_commands(True)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/kilroy/Dev/workbench/react-redux-mud-client"
+	],
+	"file_history":
+	[
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/config/userConfig.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/mudClientMiddleware/mudClientMiddleware.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/mudClientMiddleware/managers/AliasManager.js",
+		"/home/kilroy/Dev/workbench/DEV_LOG_180120.md",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/mudClientMiddleware/managers/ClientCommandManager.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/state/reducers.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/state/configureStore.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/mudClientMiddleware/clientCommands/ClearClientCommand.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/mudClientMiddleware/clientCommands/AliasClientCommand.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/state/actions.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/config/serverConfig.json",
+		"/home/kilroy/Desktop/test23428.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/mudClientMiddleware/clientCommands/TriggerClientCommand.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/render/styles/ANSIColors.css",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/mudClientMiddleware/managers/TriggerManager.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/server.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/index.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/package.json",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/serverConfig.json",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/userConfig.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/mud-client-js-180227 NOTES.md",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/render/MUDClient.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/render/lib/MudOutputDecoder.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/config/serverConfig.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/notes/OLD_configureStore.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/state/localStorage.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/render/UserInputBar.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/lib/MudOutputDecoder.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/mudClientMiddleware/ClientCommands/AliasClientCommand.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/mudClientMiddleware/ClientCommands/ClientCommandResponder.js",
+		"/home/kilroy/Desktop/valejo-man-warrior-sd.log",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/mudClientMiddleware/ClientCommands/TriggerClientCommand.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/mud-client-180227.sublime-project",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/node_modules/axobject-query/lib/etc/objects/NoteRole.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/mudClientMiddleware/ClientCommands/ClientCommandManager.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/lib/localStorage.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/mudClientMiddleware/OLD_mudClientMiddleware.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/README.md",
+		"/home/kilroy/Dev/workbench/mud-client-js-180227/src/mudClientMiddleware/managers",
+		"/home/kilroy/Dev/workbench/mud-client-js-180222/src/mudClientMiddleware/UserTriggers.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180222/src/mudClientMiddleware/config/userConfig.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180222/src/lib/localStorage.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180222/src/index.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180222/src/mudClientMiddleware/ClientCommands.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180222/src/mudClientMiddleware/UserAliases.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180222/src/state/reducers.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180222/package.json",
+		"/home/kilroy/Dev/workbench/mud-client-js-180222/README.md",
+		"/home/kilroy/Dev/workbench/mud-client-js-180222/src/mudClientMiddleware/config/serverConfig.json",
+		"/home/kilroy/Dev/workbench/mud-client-js-180222/server.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180222/notes/DEV_LOG_180223.md",
+		"/home/kilroy/Dev/workbench/mud-client-js-180222/mud-client-js-180222.sublime-project",
+		"/home/kilroy/Dev/workbench/mud-client-js-180207/src/mudClientMiddleware/ClientCommands.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180207/README.md",
+		"/home/kilroy/Dev/workbench/mud-client-js-180207/src/mudClientMiddleware/config/userConfig.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180207/src/index.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180207/src/state/actions.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180207/src/state/reducers.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180207/.gitignore",
+		"/home/kilroy/Dev/workbench/mud-client-js-180207/public/manifest.json",
+		"/home/kilroy/Dev/workbench/mud-client-js-180207/src/mudClientMiddleware/config/userConfig_EXAMPLE.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180207/src/render/assets/ANSIColors.css",
+		"/home/kilroy/Dev/workbench/mud-client-js-180207/src/render/UserInputBar2.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180207/src/mudClientMiddleware/mudClientMiddleware.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180207/src/render/assets/MUDClient.css",
+		"/home/kilroy/Dev/workbench/mud-client-js-180207/package.json",
+		"/home/kilroy/Dev/workbench/mud-client-js-180207/src/mudClientMiddleware/UserAliases.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180207/src/mudClientMiddleware/UserTriggers.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180207/src/render/MUDClient.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180207/server.js",
+		"/home/kilroy/Dev/workbench/mud-client-js-180207/src/mudClientMiddleware/config/serverConfig.json",
+		"/home/kilroy/Dev/workbench/mud-client-js-180207/mud-client-js 180207.sublime-project",
+		"/home/kilroy/Dev/workbench/mud-client-js-180207/public/index.html",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/mudClientMiddleware/mudClientMiddleware.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/render/MUDClient.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/mudClientMiddleware/createSocketIoMiddleware.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/lib/AnsiHtmlDecoder.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/render/maps/vtig/vtig2dRenderArray.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/render/maps/noc/noc2dRenderArray.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/mudClientMiddleware/Mapper3.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/DEV-LOG.mdown",
+		"/home/kilroy/Dev/workbench/mume-js-171128/server.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/index.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/state/reducers.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/mudClientMiddleware/Mapper2.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/mudClientMiddleware/config/userConfig.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/state/actions.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/render/maps/default/defaultMap.css",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/render/maps/default/Map.css",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/render/MapWindow.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/render/maps/foyzoc/foyzoc2dRenderArray.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/render/maps/hmdt/hmdtCanvasLines.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/render/maps/hmdt/hmdt2dRenderArray.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/notes/scripts/tempMakeBlankMapArray.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/notes/scripts/mine2DRenderArrayFromDOM.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/render/maps/hmdt/hmdtMap.css",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/render/maps/hmdt/nocCanvasLines.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/render/maps/vtig/vtigCanvasLines.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/notes/Redux Async Actions Notes.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/render/maps/goblinsoc/goblinsoc2dRenderArray.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/render/maps/vtig/vtigMap.css",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/render/maps/goblinsoc/goblinsocMap.css",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/render/assets/MUDClient.css",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/render/maps/goblinsoc/goblinsocCanvasLines.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/mudClientMiddleware/ClientCommands.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/mudClientMiddleware/Mapper.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/lib/localStorage.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/render/MudClientBACKUP.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/render/UserInputBar2.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/lib/MudOutputDecoder.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/README.md",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/render/maps/foyzoc/foyzocMap.css",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/mudClientMiddleware/UserAliases.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/render/maps/default/Map2.css",
+		"/home/kilroy/Desktop/2018-01-10 JavaScript constructor patterns in 2018.md",
+		"/home/kilroy/Desktop/temp234298.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/notes/UserInputForm.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/mudClientMiddleware/UserTriggers.js",
+		"/home/kilroy/Desktop/Some salient notes on Redux in practice.md",
+		"/home/kilroy/Desktop/temp020202020.js",
+		"/home/kilroy/Desktop/tempe92803842.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/index_BACKUP.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/mume-js-171128.sublime-project",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/mudClientMiddleware/UserInputHandler.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/node_modules/redux-socket.io/src/index.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/mudClientMiddleware/MudOutputHandler.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/render/maps/lost/lost2dRenderArray.js",
+		"/home/kilroy/Dev/workbench/mume-js-171128/src/mudClientMiddleware/0/ClientCommandResponder.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 291.0,
+		"where_history":
+		[
+			"",
+			"/home/kilroy/Dev/workbench/mume-js-0.0.2",
+			"/home/kilroy/Dev/workbench/mume-js-0.0.2/browser_source",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"alias",
+			"addAlias",
+			"aliasObj",
+			"aliasObjs",
+			"writeAppMessage",
+			"writeTo",
+			"this.triggers",
+			"MudOutputDecor",
+			"map",
+			"(),\n",
+			"getTimeId(),",
+			"getTimeId()",
+			"userConfig",
+			"aliasResponder",
+			"triggerResponder",
+			"clientCommandResponder",
+			"TriggerResponder",
+			"AliasResponder",
+			"responders",
+			"ClientCommandResponder",
+			"clientCommandResponder",
+			"ClientCommandResponder",
+			"Manager",
+			"combineTrigger",
+			"writeApp",
+			"UserInputBar",
+			"UserInput",
+			"checkForDiagonal",
+			"guessNextVertical",
+			"match",
+			"App",
+			"console",
+			"\"x\": 53,\n\"y\": 14",
+			"\"x\": 10,\n\"y\": 11",
+			"\"x\": 10,\n\"y\": 12",
+			"\"x\": 10,\n\"y\": 11",
+			"\"x\": 15,\n\"y\": 60",
+			"\"x\": 24,\n\"y\": 30",
+			"\"x\": 24\n\"y\": 30",
+			"\"x\": 23,\n\"y\": 29",
+			"\"x\": 23,\n\"y\": 30",
+			"\"x\": 30,\n\"y\": 65",
+			"\"x\": 30,\n\"y\": 64",
+			"\"x\": 30,\n\"y\": 63",
+			"\"x\": 30,\n\"y\": 61",
+			"\"x\": 30,\n\"y\": 62",
+			"\"x\": 30,\n\"y\": 63",
+			"\"x\": 30,\n\"y\": 64",
+			"\"x\": 30,\n\"y\": 65",
+			"\"x\": 30,\n\"y\": 64",
+			"\"x\": 30,\n\"y\": 65",
+			"\"x\": 30,\n\"y\": 66",
+			"\"x\": 30,\n\"y\": 67",
+			"\"x\": 30,\n\"y\": 68",
+			"\"x\": 30,\n\"y\": 69",
+			"\"x\": 36,\n\"y\": 68",
+			"\"x\": 30,\n\"y\": 70",
+			"\"x\": 30,\n\"y\": 65",
+			"\"x\": 30,\n\"y\": 66",
+			"\"x\": 30,\n\"y\": 67",
+			"\"x\": 30,\n\"y\": 68",
+			"\"x\": 30,\n\"y\": 69",
+			"\"x\": 30,\n\"y\": 70",
+			"\"x\": 36,\n\"y\": 68",
+			"\"x\": 37,\n\"y\": 76",
+			"\"x\": 41,\n\"y\": 74",
+			"\"x\": 40,\n\"y\": 72",
+			"\"x\": 42,\n\"y\": 72",
+			"\"x\": 42,\n\"y\": 73",
+			"\"x\": 42,\n\"y\": 67",
+			"\"x\": 42,\n\"y\": 68",
+			"\"x\": 37,\n\"y\": 74",
+			"\"x\": 38,\n\"y\": 75",
+			"\"x\": 36,\n\"y\": 76",
+			"\"x\": 36,\n\"y\": 77",
+			"\"x\": 33,\n\"y\": 78",
+			"\"x\": 32,\n\"y\": 79",
+			"\"x\": 31,\n\"y\": 32",
+			"\"x\": 29,\n\"y\": 31",
+			"\"x\": 37,\n\"y\": 74",
+			"\"x\": 8,\n\"y\": 29",
+			"\"x\": 44,\n\"y\": 22",
+			"\"x\": 30,\n\"y\": 32",
+			"\"x\": 20,\n\"y\": 15",
+			"\"x\": 60,\n\"y\": 20",
+			"\"x\": 60,\n\"y\": 21",
+			"\"x\": 60,\n\"y\": 22",
+			"\"x\": 60,\n\"y\": 23",
+			"\"x\": 60,\n\"y\": 24",
+			"\"x\": 60,\n\"y\": 25",
+			"\"x\": 60,\n\"y\": 26",
+			"noc",
+			"goblins",
+			"\"x\": 60,\n\"y\": 27",
+			"\"x\": 0,\n\"y\": 33",
+			"road",
+			".Room [data-layer='road'] {",
+			"road",
+			".Room [data-layer='road'] {",
+			"road",
+			"\"x\": 24,\n\"y\": 33,",
+			"\"x\": 21,\n\"y\": 33,",
+			"\"x\": 21,\n\"y\": 34,",
+			"\"x\": 21,\n\"y\": 37,",
+			"\"x\": 21,\n\"y\": 35,",
+			"\"x\": 21,\n\"y\": 37,",
+			"\"x\": 21,\n\"y\": 38,",
+			"\"x\": 21,\n\"y\": 31,",
+			"\"x\": 21,\n\"y\": 30,",
+			"\"x\": 21,\n\"y\": 29,",
+			"\"x\": 21,\n\"y\": 28,",
+			"\"x\": 53,\n\"y\": 22,",
+			"exits",
+			"\"x\": 52,\n\"y\": 22",
+			"\"x\": 54,\n\"y\": 23",
+			"\"x\": 50,\n\"y\": 23",
+			"road",
+			"letter1",
+			"defaultMapState",
+			"store",
+			"mapper",
+			"getRoom",
+			"console",
+			"[data-id='foyzoc']",
+			"[data-id=foyzoc]",
+			"[data-id='goblinsoc']",
+			"[data-id=goblinsoc]",
+			"\"x\": 46,\n\"y\": 19"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 25.0
+	},
+	"pinned_build_system": "",
+	"project": "React Redux MUD Client.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"conf",
+				"src/state/configureStore.js"
+			],
+			[
+				"ind",
+				"src/index.js"
+			],
+			[
+				"aalias",
+				"src/mudClientMiddleware/managers/AliasManager.js"
+			],
+			[
+				"middle",
+				"src/mudClientMiddleware/mudClientMiddleware.js"
+			],
+			[
+				"dev",
+				"~/Dev/workbench/DEV_LOG_180120.md"
+			],
+			[
+				"red",
+				"src/state/reducers.js"
+			],
+			[
+				"user",
+				"src/config/userConfig.js"
+			],
+			[
+				"serv",
+				"src/config/serverConfig.json"
+			],
+			[
+				"act",
+				"src/state/actions.js"
+			],
+			[
+				"re",
+				"src/state/reducers.js"
+			],
+			[
+				"alias",
+				"src/mudClientMiddleware/clientCommands/AliasClientCommand.js"
+			],
+			[
+				"clientc",
+				"src/mudClientMiddleware/managers/ClientCommandManager.js"
+			],
+			[
+				"trigg",
+				"src/mudClientMiddleware/clientCommands/TriggerClientCommand.js"
+			],
+			[
+				"redu",
+				"src/state/reducers.js"
+			],
+			[
+				"action",
+				"src/state/actions.js"
+			],
+			[
+				"mudc",
+				"src/mudClientMiddleware/mudClientMiddleware.js"
+			],
+			[
+				"trig",
+				"src/mudClientMiddleware/clientCommands/TriggerClientCommand.js"
+			],
+			[
+				"ali",
+				"src/mudClientMiddleware/clientCommands/AliasClientCommand.js"
+			],
+			[
+				"log",
+				"~/Dev/workbench/DEV_LOG_180120.md"
+			],
+			[
+				"acti",
+				"src/state/actions.js"
+			],
+			[
+				".css",
+				"src/render/styles/ANSIColors.css"
+			],
+			[
+				"dv",
+				"~/Dev/workbench/DEV_LOG_180120.md"
+			],
+			[
+				"client",
+				"src/mudClientMiddleware/managers/ClientCommandManager.js"
+			],
+			[
+				"aliasc",
+				"src/mudClientMiddleware/clientCommands/AliasClientCommand.js"
+			],
+			[
+				"tri",
+				"src/mudClientMiddleware/managers/TriggerManager.js"
+			],
+			[
+				"mudcl",
+				"src/mudClientMiddleware/mudClientMiddleware.js"
+			],
+			[
+				"aliasm",
+				"src/mudClientMiddleware/managers/AliasManager.js"
+			],
+			[
+				"tirg",
+				"src/mudClientMiddleware/managers/TriggerManager.js"
+			],
+			[
+				"mduclie",
+				"src/mudClientMiddleware/mudClientMiddleware.js"
+			],
+			[
+				"ser",
+				"server.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"",
+				"src/mudClientMiddleware/managers/ClientCommandManager.js"
+			],
+			[
+				"liasc",
+				"src/mudClientMiddleware/clientCommands/AliasClientCommand.js"
+			],
+			[
+				"con",
+				"src/state/configureStore.js"
+			],
+			[
+				"c",
+				"src/state/configureStore.js"
+			],
+			[
+				"server",
+				"src/config/serverConfig.js"
+			],
+			[
+				"note",
+				"mud-client-js-180227 NOTES.md"
+			],
+			[
+				"mud",
+				"src/render/MUDClient.js"
+			],
+			[
+				"comman",
+				"src/mudClientMiddleware/managers/ClientCommandManager.js"
+			],
+			[
+				"inde",
+				"src/index.js"
+			],
+			[
+				"local",
+				"src/state/localStorage.js"
+			],
+			[
+				"old",
+				"notes/OLD_configureStore.js"
+			],
+			[
+				"bar",
+				"src/render/UserInputBar2.js"
+			],
+			[
+				"mid",
+				"src/mudClientMiddleware/mudClientMiddleware.js"
+			],
+			[
+				"loca",
+				"src/lib/localStorage.js"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"alia",
+				"src/mudClientMiddleware/UserAliases.js"
+			],
+			[
+				"comma",
+				"src/mudClientMiddleware/ClientCommands.js"
+			],
+			[
+				"loc",
+				"src/lib/localStorage.js"
+			],
+			[
+				"usert",
+				"src/mudClientMiddleware/UserTriggers.js"
+			],
+			[
+				"comm",
+				"src/mudClientMiddleware/ClientCommands.js"
+			],
+			[
+				"clie",
+				"src/mudClientMiddleware/ClientCommands.js"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"useri",
+				"src/render/UserInputBar2.js"
+			],
+			[
+				"ac",
+				"src/state/actions.js"
+			],
+			[
+				"mapw",
+				"src/render/MapWindow.js"
+			],
+			[
+				"mapper",
+				"src/mudClientMiddleware/Mapper3.js"
+			],
+			[
+				"noc",
+				"src/render/maps/noc/noc2dRenderArray.js"
+			],
+			[
+				"2d",
+				"src/render/maps/vtig/vtig2dRenderArray.js"
+			],
+			[
+				"create",
+				"src/mudClientMiddleware/createSocketIoMiddleware.js"
+			],
+			[
+				"sock",
+				"src/mudClientMiddleware/createSocketIoMiddleware.js"
+			],
+			[
+				"mapper3",
+				"src/mudClientMiddleware/Mapper3.js"
+			],
+			[
+				"middlew",
+				"src/mudClientMiddleware/mudClientMiddleware.js"
+			],
+			[
+				"map.c",
+				"src/render/maps/default/Map.css"
+			],
+			[
+				"mapper2",
+				"src/mudClientMiddleware/Mapper2.js"
+			],
+			[
+				"mapp",
+				"src/mudClientMiddleware/Mapper2.js"
+			],
+			[
+				"hm",
+				"src/render/maps/hmdt/hmdtMap.css"
+			],
+			[
+				"foyz",
+				"src/render/maps/foyzoc/foyzoc2dRenderArray.js"
+			],
+			[
+				"vgt",
+				"src/render/maps/vtig/vtigCanvasLines.js"
+			],
+			[
+				"vt",
+				"src/render/maps/vtig/vtig2dRenderArray.js"
+			],
+			[
+				"map",
+				"src/render/MapWindow.js"
+			],
+			[
+				"vtig",
+				"src/render/maps/vtig/vtig2dRenderArray.js"
+			],
+			[
+				"d",
+				"src/DEV-LOG.mdown"
+			],
+			[
+				"gob",
+				"src/render/maps/goblinsoc/goblinsoc2dRenderArray.js"
+			],
+			[
+				"index.",
+				"src/index.js"
+			],
+			[
+				"map.",
+				"src/render/maps/default/Map.css"
+			],
+			[
+				"foy",
+				"src/render/maps/foyzoc/foyzoc2dRenderArray.js"
+			],
+			[
+				"go",
+				"src/render/maps/goblinsoc/goblinsocCanvasLines.js"
+			],
+			[
+				"use",
+				"src/mudClientMiddleware/config/userConfig.js"
+			],
+			[
+				"in",
+				"src/index.js"
+			],
+			[
+				"actio",
+				"src/state/actions.js"
+			],
+			[
+				"reduj",
+				"src/state/reducers.js"
+			],
+			[
+				"middl",
+				"src/mudClientMiddleware/mudClientMiddleware.js"
+			],
+			[
+				"dev-",
+				"src/DEV-LOG.mdown"
+			],
+			[
+				"inbar",
+				"src/render/UserInputBar2.js"
+			],
+			[
+				".cs",
+				"src/render/assets/MUDClient.css"
+			],
+			[
+				"ansi",
+				"src/lib/AnsiHtmlDecoder.js"
+			],
+			[
+				"vti",
+				"src/render/maps/vtig/vtigCanvasLines.js"
+			],
+			[
+				"de",
+				"src/DEV-LOG.mdown"
+			],
+			[
+				"bar2",
+				"src/render/UserInputBar2.js"
+			],
+			[
+				"userinput",
+				"src/render/UserInputBar2.js"
+			],
+			[
+				"mu",
+				"src/render/MUDClient.js"
+			],
+			[
+				"usrea",
+				"src/mudClientMiddleware/UserAliases.js"
+			],
+			[
+				"cli",
+				"src/mudClientMiddleware/ClientCommands.js"
+			],
+			[
+				"clien",
+				"src/mudClientMiddleware/ClientCommands.js"
+			],
+			[
+				"usr",
+				"src/mudClientMiddleware/UserInputHandler.js"
+			],
+			[
+				"proj",
+				"mume-js-171128.sublime-project"
+			],
+			[
+				"mudou",
+				"src/mudClientMiddleware/MudOutputHandler.js"
+			],
+			[
+				"userinpu",
+				"src/mudClientMiddleware/UserInputHandler.js"
+			],
+			[
+				"usera",
+				"src/mudClientMiddleware/UserAliases.js"
+			],
+			[
+				"usercon",
+				"src/mudClientMiddleware/config/userConfig.js"
+			],
+			[
+				"userin",
+				"src/mudClientMiddleware/UserInputHandler.js"
+			],
+			[
+				"usea",
+				"src/mudClientMiddleware/UserAliases.js"
+			],
+			[
+				"handl",
+				"src/mudClientMiddleware/MudOutputHandler.js"
+			],
+			[
+				"mappe",
+				"src/mudClientMiddleware/Mapper.js"
+			],
+			[
+				"userc",
+				"src/mudClientMiddleware/config/userConfig.js"
+			],
+			[
+				"aci",
+				"src/state/actions.js"
+			],
+			[
+				"mapmain",
+				"src/mudClientMiddleware/0/MapMaintainer.js"
+			],
+			[
+				"mudo",
+				"src/mudClientMiddleware/MudOutputHandler.js"
+			],
+			[
+				"useralias",
+				"src/mudClientMiddleware/UserAliases.js"
+			],
+			[
+				"userco",
+				"src/mudClientMiddleware/config/userConfig.js"
+			],
+			[
+				"mapma",
+				"src/mudClientMiddleware/0/MapMaintainer.js"
+			],
+			[
+				"inpu",
+				"src/mudClientMiddleware/UserInputHandler.js"
+			],
+			[
+				"resp",
+				"src/mudClientMiddleware/0/UserTriggerResponder.js"
+			],
+			[
+				"userali",
+				"src/mudClientMiddleware/UserAliases.js"
+			],
+			[
+				"mudin",
+				"src/mudClientMiddleware/UserInputHandler.js"
+			],
+			[
+				"out",
+				"src/mudClientMiddleware/MudOutputHandler.js"
+			],
+			[
+				"back",
+				"src/index_BACKUP.js"
+			],
+			[
+				"rese",
+				"src/render/assets/reset.css"
+			],
+			[
+				"sev",
+				"src/mudClientMiddleware/config/serverConfig.json"
+			],
+			[
+				"ud",
+				"src/mudClientMiddleware/mudClientMiddleware_OLD.js"
+			],
+			[
+				"fo",
+				"src/render/maps/foyzoc/foyzocMap.css"
+			],
+			[
+				"us",
+				"src/mudClientMiddleware/UserAliasResponder.js"
+			],
+			[
+				"2",
+				"src/render/maps/noc/noc2dRenderArray.js"
+			],
+			[
+				"maptr",
+				"src/mudClientMiddleware/MapMaintainer.js"
+			],
+			[
+				"gobl",
+				"src/render/maps/goblinsoc/goblinsocMap.css"
+			],
+			[
+				"rend",
+				"src/render/maps/goblinsoc/goblinsoc2dRenderArray.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
