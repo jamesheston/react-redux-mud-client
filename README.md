@@ -8,8 +8,8 @@ It was built on top of create-react-app, so React handles rendering the UI. The 
 Quick Start
 -----------
 ```
-git clone <url>
-cd <dir>
+git clone https://github.com/jamesheston/react-redux-mud-client
+cd react-redux-mud-client
 npm install
 # open a 2nd terminal tab and run the following to start the proxy localhost server which wraps the MUD server's output in websockets
 npm run server
@@ -20,9 +20,6 @@ npm start
 Current Features
 ----------------
 * ANSI color rendering
-* double-clicking on history window focuses user input bar and selects text
+* user defined *aliases* and *triggers* 
 * command stacking with semicolon delimiter, e.g. `open exit north;north;close exit south`
-* user input history scrolling with up and down arrows when user input bar is focused 
-* autosaves History Window messages, user input commands, and other session data every second to that data isn't lost when browser window closes. Your old session should automatically reload with history intact next time you visit site.
-
-
+* user input command history - scroll history with up and down arrows when input bar is focused
