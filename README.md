@@ -20,6 +20,6 @@ npm start
 Current Features
 ----------------
 * ANSI color rendering
-* user defined *aliases* and *triggers* 
+* user defined **aliases** and **triggers** 
 * command stacking with semicolon delimiter, e.g. `open exit north;north;close exit south`
 * user input command history - scroll history with up and down arrows when input bar is focused
