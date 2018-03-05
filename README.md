@@ -4,7 +4,6 @@ This browser-based MUD client was made specifically for [MUME](http://mume.org/)
 
 It was built on top of create-react-app, so React handles rendering the UI. The state is managed by Redux. Websockets are used to wrap the http requests to and from the MUD server into a stream that can be consumed by JavaScript in the browser.
 
-
 Quick Start
 -----------
 ```
@@ -16,7 +15,6 @@ npm run server
 # back in 1st terminal run the following to start the application
 npm start
 ```
-
 Current Features
 ----------------
 * ANSI color rendering
