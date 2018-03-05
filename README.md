@@ -10,9 +10,9 @@ Quick Start
 git clone https://github.com/jamesheston/react-redux-mud-client
 cd react-redux-mud-client
 npm install
-# open a 2nd terminal tab and run the following to start the proxy localhost server which wraps the MUD server's output in websockets
+# open a 2nd terminal tab and start the proxy server between websockets and the MUD server:
 npm run server
-# back in 1st terminal run the following to start the application
+# back in 1st terminal run this to start the web app:
 npm start
 ```
 Current Features
